@@ -1,0 +1,23 @@
+.red{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    
+}
+.note{
+    color: black;
+    font-size: 17px;
+}
+.div1{
+    float: left;
+}
+.div2{
+    float: right;
+}
+.disk1{
+    width: 200px;
+    border-radius: 100px;
+}
+body{
+    background-size: cover;
+}
